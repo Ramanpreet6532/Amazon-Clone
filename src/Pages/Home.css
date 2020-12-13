@@ -1,6 +1,9 @@
 .home {
-    max-width: 1300px;
+    /* display: flex;
+    justify-content: center; */
+    max-width: 2000px;
     margin: 0 auto;
+    z-index: -1;
 }
 
 .home_image {
